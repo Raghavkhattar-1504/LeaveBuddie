@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "8870",
+      "name": "Raghav",
+      "employeeId": "raghav1@rj",
+      "date": "2025-03-12",
+      "days": "10",
+      "reason": "home",
+      "status": "Approved",
+      "balance": 12
+    },
+    {
+      "id": "89070",
+      "name": "Raghav",
+      "employeeId": "sparsh1@rj",
+      "date": "2025-03-12",
+      "days": "10",
+      "reason": "home",
+      "status": "Approved",
+      "balance": 12
+    },
+    {
+      "id": "0e98",
+      "name": "Raghav",
+      "employeeId": "raghav1@rj",
+      "date": "2025-03-20",
+      "days": "12",
+      "reason": "home",
+      "status": "Approved",
+      "balance": 0
+    },
+    {
+      "id": "f0b6",
+      "name": "Raghav",
+      "employeeId": "raghav1@rj",
+      "date": "2025-03-20",
+      "days": "1",
+      "reason": "home",
+      "status": "Rejected",
+      "balance": 12
+    },
+    {
+      "id": "7384",
+      "name": "Raghav",
+      "employeeId": "raghav1@rj",
+      "date": "2025-03-13",
+      "days": "4",
+      "reason": "hjhg",
+      "status": "Approved",
+      "balance": 8
+    },
+    {
+      "id": "f98f",
+      "name": "Raghav",
+      "employeeId": "raghav1@rj",
+      "date": "2025-03-18",
+      "days": "8",
+      "reason": "",
+      "status": "Approved",
+      "balance": 0
+    },
+    {
+      "id": "70d8",
+      "name": "Raghav",
+      "employeeId": "raghav1@rj",
+      "date": "2025-03-20",
+      "days": "0",
+      "reason": "home",
+      "status": "Approved",
+      "balance": 0
+    },
+    {
+      "id": "6352",
+      "name": "Yugam",
+      "employeeId": "yuagm69@RJ",
+      "date": "2025-03-15",
+      "days": "4",
+      "reason": "Home",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "f60d",
+      "name": "Yugam",
+      "employeeId": "yuagm69@RJ",
+      "date": "2025-03-15",
+      "days": "4",
+      "reason": "Home",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "a750",
+      "name": "Yugam",
+      "employeeId": "yuagm69@RJ",
+      "date": "2025-03-15",
+      "days": "4",
+      "reason": "Home",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "3699",
+      "name": "Yugam",
+      "employeeId": "yuagm69@RJ",
+      "date": "2025-03-15",
+      "days": "4",
+      "reason": "Home",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "da1e",
+      "name": "",
+      "employeeId": "",
+      "date": "",
+      "days": 0,
+      "reason": "",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "463b",
+      "name": "",
+      "employeeId": "",
+      "date": "",
+      "days": 0,
+      "reason": "",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "3312",
+      "name": "ww",
+      "employeeId": "",
+      "date": "",
+      "days": 0,
+      "reason": "",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "57da",
+      "name": "ww",
+      "employeeId": "",
+      "date": "",
+      "days": 0,
+      "reason": "",
+      "status": "Pending",
+      "balance": 22
+    },
+    {
+      "id": "6eb1",
+      "name": "",
+      "employeeId": "",
+      "date": "",
+      "days": 0,
+      "reason": "",
+      "status": "Pending",
+      "balance": 22
+    }
+  ]
+}

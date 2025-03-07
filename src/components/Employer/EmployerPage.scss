@@ -1,0 +1,116 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5%;
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.back-button {
+    align-self: flex-start;
+    background: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-bottom: 15px;
+}
+
+.back-button:hover {
+    background: #0056b3;
+}
+
+.main-title h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+.employer-title h2 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #495057;
+    margin-bottom: 15px;
+}
+
+.employer-table-container {
+    width: 100%;
+    max-width: 900px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-heading {
+    background-color: #007BFF;
+    color: white;
+    font-size: 16px;
+    text-align: left;
+}
+
+.table-heading-field {
+    padding: 12px;
+    border: 1px solid #ccc;
+    font-weight: bold;
+}
+
+tbody tr {
+    background-color: #f9f9f9;
+    transition: background 0.3s;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #eef3f7;
+}
+
+tbody tr:hover {
+    background-color: #dbe7ff;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+
+button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: background 0.3s ease;
+}
+
+.approved {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.rejected {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+button:hover {
+    opacity: 0.8;
+}
